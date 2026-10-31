@@ -1,0 +1,6 @@
+{
+  "name": "Economía en Acción — I.E. República de Argentina",
+  "description": "Software educativo interactivo para 1.° de secundaria sobre sectores productivos y agentes económicos en Villa de Pasco.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
